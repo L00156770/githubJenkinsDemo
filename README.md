@@ -2,6 +2,7 @@
 Repo for LYIT student practicing github/jenkins
 Change to see Jenkins in action
 test123
+apples
 # download a repository on GitHub.com to our machine
 git clone https://github.com/me/repo.git
 
@@ -24,3 +25,4 @@ git commit -m "my snapshot"
 
 # push changes to github
 git push --set-upstream origin my-branch
+
